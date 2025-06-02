@@ -127,10 +127,10 @@ header {
 }
 
 #logo h1 { 
-  font: normal 330% 'News Cycle', arial, sans-serif;
-  padding: 37px 0 0 17px;
+  font: normal 230% 'News Cycle', arial, sans-serif;
+  padding: 37px 0 0 5px;
   color: #222;
-  letter-spacing: -2px;
+  letter-spacing: -3px;
 }
 
 #logo h1 a { 
